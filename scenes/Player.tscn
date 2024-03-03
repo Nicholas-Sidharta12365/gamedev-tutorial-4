@@ -73,4 +73,5 @@ anims/Jump = SubResource( 3 )
 anims/Walk = SubResource( 4 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
+offset = Vector2( 300, 0 )
 current = true
